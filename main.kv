@@ -1,0 +1,110 @@
+#:import dp kivy.metrics.dp
+
+<RoundButton@Button>:
+    background_normal: ""
+    background_color: (0.3, 0.3, 0.3, 1)
+    color: (1,1,1,1)
+    size_hint: None, None
+    font_size: dp(24)
+    canvas.before:
+        Color:
+            rgba: self.background_color
+        Ellipse:
+            pos: self.pos
+            size: self.size
+
+<DPAD@BoxLayout>:
+    size_hint: None, None
+    width: dp(180)
+    height: dp(180)
+    pos_hint: {"center_x": .5}
+    orientation: "vertical"
+    spacing: dp(10)
+
+    BoxLayout:
+        size_hint_y: .33
+        RoundButton:
+            text: "UP"
+            size: dp(60), dp(60)
+            background_color: (.6,.6,.6,1)
+            color: (1,1,1,1)
+            pos_hint: {"center_x": .5}
+
+    BoxLayout:
+        size_hint_y: .33
+        spacing: dp(10)
+        RoundButton:
+            text: "LEFT"
+            size: dp(60), dp(60)
+            background_color: (.6,.6,.6,1)
+            color: (1,1,1,1)
+        Widget:
+        RoundButton:
+            text: "RIGHT"
+            size: dp(60), dp(60)
+            background_color: (.6,.6,.6,1)
+            color: (1,1,1,1)
+
+    BoxLayout:
+        size_hint_y: .33
+        RoundButton:
+            text: "DOWN"
+            size: dp(60), dp(60)
+            background_color: (.6,.6,.6,1)
+            color: (1,1,1,1)
+            pos_hint: {"center_x": .5}
+
+
+BoxLayout:
+    orientation: "vertical"
+    spacing: dp(25)
+    padding: dp(20)
+    canvas.before:
+        Color: 1,1,1,1
+        Rectangle:
+            pos: self.pos
+            size: self.size
+
+    DPAD:
+        pos_hint: {"center_x": .5}
+
+    BoxLayout:
+        size_hint_y: None
+        height: dp(100)
+        spacing: dp(50)
+        pos_hint: {"center_x": .5}
+        RoundButton:
+            text: "A"
+            size: dp(80), dp(80)
+            background_color: (0.2,0.4,1,1)
+            color: (1,1,1,1)
+        RoundButton:
+            text: "B"
+            size: dp(80), dp(80)
+
+    BoxLayout:
+        size_hint_y: None
+        height: dp(60)
+        spacing: dp(30)
+        pos_hint: {"center_x": .5}
+        RoundButton:
+            text: "-"
+            size: dp(50), dp(50)
+        RoundButton:
+            text: "HOME"
+            size: dp(60), dp(60)
+        RoundButton:
+            text: "+"
+            size: dp(50), dp(50)
+
+    BoxLayout:
+        size_hint_y: None
+        height: dp(80)
+        spacing: dp(20)
+        pos_hint: {"center_x": .5}
+        RoundButton:
+            text: "1"
+            size: dp(70), dp(70)
+        RoundButton:
+            text: "2"
+            size: dp(70), dp(70)
