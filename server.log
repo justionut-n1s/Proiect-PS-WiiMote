@@ -1,0 +1,6 @@
+[18:33:01] [LOCK] Acquired (PID 21192).
+[18:33:01] [WARN] WiimoteBridge.exe not found: d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\bridge\WiimoteBridge.exe
+[18:33:01] [PAIR] Listening on :5007
+[18:33:01] [PHONE] Listening on :5005
+[18:33:01] [SERVER] Threads started.
+[18:33:05] [LOCK] Released.

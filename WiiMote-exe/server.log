@@ -1,0 +1,197 @@
+[18:24:41] [LOCK] Acquired (PID 18828).
+[18:24:41] [DEBUG] BASE_DIR = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe
+[18:24:41] [DEBUG] BRIDGE_PATH = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[18:24:41] [ERROR] WiimoteBridge.exe NOT FOUND at: d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[18:24:41] [PAIR] Listening on :5007
+[18:24:41] [PHONE] Listening on :5005
+[18:24:41] [SERVER] Threads started.
+[18:24:49] [LOCK] Released.
+[18:34:44] [LOCK] Acquired (PID 12280).
+[18:34:44] [WARN] WiimoteBridge.exe not found: d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[18:34:44] [PAIR] Listening on :5007
+[18:34:44] [PHONE] Listening on :5005
+[18:34:44] [SERVER] Threads started.
+[18:34:44] [LOCK] Released.
+[18:34:47] [LOCK] Acquired (PID 19324).
+[18:34:47] [WARN] WiimoteBridge.exe not found: d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[18:34:47] [PAIR] Listening on :5007
+[18:34:47] [PHONE] Listening on :5005
+[18:34:47] [SERVER] Threads started.
+[18:34:47] [LOCK] Released.
+[18:34:47] [LOCK] Acquired (PID 1768).
+[18:34:47] [WARN] WiimoteBridge.exe not found: d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[18:34:47] [PAIR] Listening on :5007
+[18:34:47] [PHONE] Listening on :5005
+[18:34:47] [SERVER] Threads started.
+[18:34:47] [LOCK] Released.
+[18:36:55] [LOCK] Acquired (PID 23368).
+[18:36:55] [WARN] WiimoteBridge.exe not found: d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[18:36:55] [PAIR] Listening on :5007
+[18:36:55] [PHONE] Listening on :5005
+[18:36:55] [SERVER] Threads started.
+[18:37:25] [LOCK] Released.
+[18:38:43] [LOCK] Acquired (PID 22128).
+[18:38:43] [WARN] WiimoteBridge.exe not found: d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[18:38:43] [PHONE] Listening on :5005
+[18:38:43] [PAIR] Listening on :5007
+[18:38:43] [SERVER] Threads started.
+[18:38:46] [LOCK] Released.
+[18:39:50] [LOCK] Acquired (PID 29528).
+[18:39:50] [BRIDGE] Started.
+[18:39:50] [PAIR] Listening on :5007
+[18:39:50] [PHONE] Listening on :5005
+[18:39:50] [SERVER] Threads started.
+[18:40:02] [PAIR] Accepted slot=1 user=John
+[18:40:02] [PAIR] Refresh slot=1 user=John
+[18:59:02] [LOCK] Released.
+[18:59:29] [LOCK] Acquired (PID 28380).
+[18:59:29] [BRIDGE] Started.
+[18:59:29] [PAIR] Listening on :5007
+[18:59:29] [PHONE] Listening on :5005
+[18:59:29] [SERVER] Threads started.
+[18:59:31] [LOCK] Released.
+[19:04:22] [LOCK] Acquired (PID 25864).
+[19:04:22] [BRIDGE] Started.
+[19:04:22] [PHONE] Listening on :5005
+[19:04:22] [PAIR] Listening on :5007
+[19:04:22] [SERVER] Threads started.
+[19:04:25] [PAIR] Accepted slot=1 user=John
+[19:04:25] [PAIR] Refresh slot=1 user=John
+[19:04:25] [PAIR] Refresh slot=1 user=John
+[19:04:25] [PAIR] Refresh slot=1 user=John
+[19:04:25] [PAIR] Refresh slot=1 user=John
+[19:04:25] [PAIR] Refresh slot=1 user=John
+[19:04:38] [PAIR] Refresh slot=1 user=John
+[19:04:38] [PAIR] Refresh slot=1 user=John
+[19:04:38] [PAIR] Refresh slot=1 user=John
+[19:04:38] [PAIR] Refresh slot=1 user=John
+[19:04:39] [PAIR] Refresh slot=1 user=John
+[19:04:39] [PAIR] Refresh slot=1 user=John
+[19:04:39] [PAIR] Refresh slot=1 user=John
+[19:04:39] [PAIR] Refresh slot=1 user=John
+[19:04:39] [PAIR] Refresh slot=1 user=John
+[19:04:39] [PAIR] Refresh slot=1 user=John
+[19:04:39] [PAIR] Refresh slot=1 user=John
+[19:04:39] [PAIR] Refresh slot=1 user=John
+[19:04:39] [PAIR] Refresh slot=1 user=John
+[19:04:39] [PAIR] Refresh slot=1 user=John
+[19:04:40] [PAIR] Refresh slot=1 user=John
+[19:04:40] [PAIR] Refresh slot=1 user=John
+[19:04:40] [PAIR] Refresh slot=1 user=John
+[19:04:40] [PAIR] Refresh slot=1 user=John
+[19:04:56] [CTRL] Timeout slot=1
+[19:05:11] [PAIR] Accepted slot=1 user=John
+[19:05:11] [PAIR] Refresh slot=1 user=John
+[19:11:29] [LOCK] Removed stale lock from PID 25864.
+[19:11:29] [LOCK] Acquired (PID 21772).
+[19:11:29] [BRIDGE] Started.
+[19:11:29] [PAIR] Listening on :5007
+[19:11:29] [PHONE] Listening on :5005
+[19:11:29] [SERVER] Threads started.
+[19:11:32] [PAIR] Accepted slot=1 user=John
+[19:11:32] [PAIR] Refresh slot=1 user=John
+[19:12:29] [LOCK] Removed stale lock from PID 21772.
+[19:12:29] [LOCK] Acquired (PID 15868).
+[19:12:29] [BRIDGE] Started.
+[19:12:29] [PAIR] Listening on :5007
+[19:12:29] [PHONE] Listening on :5005
+[19:12:29] [SERVER] Threads started.
+[19:12:31] [PAIR] Accepted slot=1 user=John
+[19:12:31] [PAIR] Refresh slot=1 user=John
+[19:17:39] [LOCK] Released.
+[19:19:45] [LOCK] Acquired (PID 29180).
+[19:19:45] [DEBUG] BASE_DIR = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe
+[19:19:45] [DEBUG] BRIDGE_PATH = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[19:19:45] [BRIDGE] Started.
+[19:19:45] [BRIDGE] Started.
+[19:19:45] [PAIR] Listening on :5007
+[19:19:45] [PHONE] Listening on :5005
+[19:19:45] [SERVER] Threads started.
+[19:19:55] [PAIR] Accepted slot=1 user=John
+[19:19:55] [PAIR] Refresh slot=1 user=John
+[19:23:41] [LOCK] Released.
+[19:24:28] [LOCK] Acquired (PID 5840).
+[19:24:28] [DEBUG] BASE_DIR = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe
+[19:24:28] [DEBUG] BRIDGE_PATH = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[19:24:28] [BRIDGE] Started.
+[19:24:28] [BRIDGE] Started.
+[19:24:28] [PAIR] Listening on :5007
+[19:24:28] [PHONE] Listening on :5005
+[19:24:28] [SERVER] Threads started.
+[19:24:29] [PAIR] Accepted slot=1 user=John
+[19:24:29] [PAIR] Refresh slot=1 user=John
+[19:30:27] [CTRL] Timeout slot=1
+[19:30:36] [PAIR] Accepted slot=1 user=John
+[19:30:36] [PAIR] Refresh slot=1 user=John
+[19:32:51] [LOCK] Released.
+[19:33:25] [LOCK] Acquired (PID 14160).
+[19:33:25] [DEBUG] BASE_DIR = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe
+[19:33:25] [DEBUG] BRIDGE_PATH = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[19:33:25] [BRIDGE] Started.
+[19:33:25] [BRIDGE] Started.
+[19:33:25] [PAIR] Listening on :5007
+[19:33:25] [PHONE] Listening on :5005
+[19:33:25] [SERVER] Threads started.
+[19:33:28] [PAIR] Accepted slot=1 user=John
+[19:33:28] [PAIR] Refresh slot=1 user=John
+[19:34:24] [LOCK] Released.
+[19:35:44] [LOCK] Acquired (PID 12596).
+[19:35:44] [DEBUG] BASE_DIR = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe
+[19:35:44] [DEBUG] BRIDGE_PATH = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[19:35:44] [BRIDGE] Started.
+[19:35:44] [BRIDGE] Started.
+[19:35:44] [PAIR] Listening on :5007
+[19:35:44] [PHONE] Listening on :5005
+[19:35:44] [SERVER] Threads started.
+[19:35:47] [PAIR] Accepted slot=1 user=John
+[19:35:47] [PAIR] Refresh slot=1 user=John
+[19:39:39] [LOCK] Released.
+[19:42:07] [LOCK] Acquired (PID 9032).
+[19:42:07] [DEBUG] BASE_DIR = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe
+[19:42:07] [DEBUG] BRIDGE_PATH = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[19:42:07] [BRIDGE] Started.
+[19:42:07] [BRIDGE] Started.
+[19:42:07] [PAIR] Listening on :5007
+[19:42:07] [PHONE] Listening on :5005
+[19:42:07] [SERVER] Threads started.
+[19:42:09] [LOCK] Released.
+[20:23:09] [LOCK] Acquired (PID 28608).
+[20:23:09] [DEBUG] BASE_DIR = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe
+[20:23:09] [DEBUG] BRIDGE_PATH = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[20:23:09] [BRIDGE] Started.
+[20:23:09] [BRIDGE] Started.
+[20:23:09] [PAIR] Listening on :5007
+[20:23:09] [PHONE] Listening on :5005
+[20:23:09] [SERVER] Threads started.
+[20:28:55] [LOCK] Released.
+[20:31:52] [LOCK] Acquired (PID 29668).
+[20:31:52] [DEBUG] BASE_DIR = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe
+[20:31:52] [DEBUG] BRIDGE_PATH = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[20:31:52] [BRIDGE] Started.
+[20:31:52] [BRIDGE] Started.
+[20:31:52] [PAIR] Listening on :5007
+[20:31:52] [PHONE] Listening on :5005
+[20:31:52] [SERVER] Threads started.
+[20:32:14] [PAIR] Accepted slot=1 user=John
+[20:32:14] [PAIR] Refresh slot=1 user=John
+[14:35:26] [LOCK] Removed stale lock from PID 29668.
+[14:35:26] [LOCK] Acquired (PID 20744).
+[14:35:26] [DEBUG] BASE_DIR = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe
+[14:35:26] [DEBUG] BRIDGE_PATH = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[14:35:27] [BRIDGE] Started.
+[14:35:27] [BRIDGE] Started.
+[14:35:27] [PAIR] Listening on :5007
+[14:35:27] [PHONE] Listening on :5005
+[14:35:27] [SERVER] Threads started.
+[14:35:37] [PAIR] Accepted slot=1 user=John
+[14:35:37] [PAIR] Refresh slot=1 user=John
+[14:37:37] [CTRL] Timeout slot=1
+[14:37:48] [LOCK] Released.
+[14:37:48] [LOCK] Acquired (PID 19692).
+[14:37:48] [DEBUG] BASE_DIR = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe
+[14:37:48] [DEBUG] BRIDGE_PATH = d:\facultate\Anul 2\PS\Proiect-PS-WiiMote\WiiMote-exe\bridge\WiimoteBridge.exe
+[14:37:48] [BRIDGE] Started.
+[14:37:48] [BRIDGE] Started.
+[14:37:48] [PAIR] Listening on :5007
+[14:37:48] [PHONE] Listening on :5005
+[14:37:48] [SERVER] Threads started.

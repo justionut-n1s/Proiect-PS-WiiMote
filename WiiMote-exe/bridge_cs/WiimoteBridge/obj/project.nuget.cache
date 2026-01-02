@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+hCec8MA28g=",
+  "success": true,
+  "projectFilePath": "D:\\facultate\\Anul 2\\PS\\Proiect-PS-WiiMote\\bridge_cs\\WiimoteBridge\\WiimoteBridge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nisco\\.nuget\\packages\\nefarius.vigem.client\\1.21.256\\nefarius.vigem.client.1.21.256.nupkg.sha512"
+  ],
+  "logs": []
+}
